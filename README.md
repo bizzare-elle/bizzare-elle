@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bizzare-elle
 - 👀 I’m interested in Web Developing 
-- 🌱 I’m currently learning more about eb developing
+- 🌱 I’m currently learning more about Web developing, Front-End 
 - 💞️ I’m looking to collaborate on making projects back and front end
 - 📫 How to reach me @justmarinelle05@gmail.com
 
