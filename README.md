@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bizzare-elle
+- 👋 Hi, I’m @bizarre-elle
 - 👀 I’m interested in Web Developing and UI/UX Designing
 - 🌱 I’m currently learning more about Web developing, Front-End 
 - 💞️ I’m looking to collaborate on making projects back and front end
