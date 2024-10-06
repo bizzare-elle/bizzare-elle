@@ -63,16 +63,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/bizzare-elle/bizzare-elle/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31m7sfrbnjqevf22dmdkkn3l3taa?si=b3ef83f550da4c00">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31m7sfrbnjqevf22dmdkkn3l3taa?si=b3ef83f550da4c00&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
